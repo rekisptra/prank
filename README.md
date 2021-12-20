@@ -1,2 +1,1 @@
-# coding-prank
-coding termux
+# Format Nomor : 089508902582 atau 6289508902582
